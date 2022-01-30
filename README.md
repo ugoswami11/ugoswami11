@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Goswami</h1>
-<h3 align="center">A aspiring data analyst currently working as a test analyst</h3>
+<h3 align="center">An aspiring data analyst currently working as a test analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugoswami11&label=Profile%20views&color=0e75b6&style=flat" alt="ugoswami11" /> </p>
 
