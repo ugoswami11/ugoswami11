@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ugoswami11" target="blank"><img src="https://img.shields.io/twitter/follow/ugoswami11?logo=twitter&style=for-the-badge" alt="ugoswami11" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
+I'm working full time as a junior test analyst in Cognizant having 1+ years of experience. My work mostly involves using MS Excel but I have also worked with Selenium web driver, java, maven, BDD cucumber, and testNG.
+
+On a journey to learn more about data. I have completed Google Data Analytics Certification through Coursera along with the capstone projects and exploring opportunities in the field of Data Analytics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
