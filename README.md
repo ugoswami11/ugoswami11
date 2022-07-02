@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Unsupervised machine learning**
 
-- 👨‍💻 All of my projects are available at [my github page](my github page)
+- 👨‍💻 All of my projects are available at my github page
 
-- 📫 How to reach me **ugoswami1112@gmail.cpm**
+- 📫 How to reach me **ugoswami1112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
