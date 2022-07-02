@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Goswami</h1>
 <h3 align="center">A Data Science enthusiast from India</h3>
+<h4 align="center">I am currently working as a Test Analyst and for the past 6 months I'm learning Data science. I have created projects on Data Analytics, Visualization and data prediction using supervised machine learning. I'm looking for oppurtunities in the Data science field specifically in the banking and finance industry<h4> 
 
 - 🌱 I’m currently learning **Unsupervised machine learning**
 
