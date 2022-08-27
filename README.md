@@ -10,7 +10,10 @@
 
 <h3 align="left">Featured Projets</h3>
 <p align="left">
-[Bengaluru house price prediction](https://github.com/ugoswami11/Bengaluru-house-price-prediction)
+<a href="https://github.com/ugoswami11/Bengaluru-house-price-prediction">Bengaluru house price prediction</a>
+</p>
+<p align="left">
+<a href="https://github.com/ugoswami11/stock-price-prediction-python">Stock price prediction</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
