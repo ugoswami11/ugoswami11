@@ -2,13 +2,16 @@
 <h3 align="center">A Data Science enthusiast from India</h3>
 <h4 align="center">Working full time as a test analyst for past 2 years and looking for a transition towards data science. I have created projects on Data Analytics, Visualization and data prediction using supervised machine learning. I'm looking for oppurtunities in the Data science field specifically in the banking and finance industry<h4> 
 
-- 🌱 I’m currently learning **Data Science with Python**
+- 🌱 I’m currently attending [Machine learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code) 
 
 - 👨‍💻 All of my projects are available at my github page
 
 - 📫 How to reach me **ugoswami1112@gmail.com**
 
-<h3 align="left">Featured Projets</h3>
+<h3 align="left">Featured Repositories</h3>
+<p align="left">
+<a href="https://github.com/ugoswami11/ml-course-bootcamp"> Machine Learning Bootcamp - notes and projects</a>
+</p>
 <p align="left">
 <a href="https://github.com/ugoswami11/Bengaluru-house-price-prediction">Bengaluru house price prediction</a>
 </p>
