@@ -26,12 +26,60 @@
 
 <h3><b>Featured Repositories</b></h3>
 
-<a href="https://github.com/ugoswami11/ml-course-bootcamp/tree/main/telco-churn-prediction">Telco Churn Prediction</a>
-<br>
-<a href="https://github.com/ugoswami11/stock-price-prediction-python">Microsoft stock price prediciton</a><br>
-<a href="https://github.com/ugoswami11/epl-match-winner-prediction"> Premier League match winner prediction</a><br>
-<a href="https://github.com/ugoswami11/Bengaluru-house-price-prediction"> Bengaluru house price prediction</a><br>
-<a href="https://github.com/ugoswami11/sales-dashboard-powerbi">Sales dashboard using PowerBI</a>
+- <a href="https://github.com/ugoswami11/ml-course-bootcamp/tree/main/telco-churn-prediction">Telco customer churn prediction</a><br>
+
+  Predicting customers who will churn using logistic regression
+  -  Doing exploratory data analysis for identifying important features
+  -  Encoding categorical variables to use them in machine learning models using DictVectorizer
+  -  Using logistic regression for classification and tuning the parameters to improve performance.
+  - Saving models with Pickle and serving models using Flask
+  - Managing dependencies with Pipenv and making the service self-contained using Docker
+
+- <a href="https://github.com/ugoswami11/ml-course-bootcamp/blob/main/notebooks/credit-risk-scoring.ipynb"> Credit risk scoring prediciton</a><br>
+
+  Predicting the risk of defaults using different tree-based models
+  - Using decision trees to predict and implement a basic decision tree learning algorithm
+  - Using Random forest to predict and tuning the parametes to improve performance
+  - Using Gradient boosting to predict and tuning the parametes to improve performance
+  - Selecting the best model by evaluating the auc scores on validation dataset. 
+
+- <a href="https://github.com/ugoswami11/ml-course-bootcamp/blob/main/notebooks/car-price.ipynb"> Car price prediction</a><br>
+
+  Creating a car-price prediction project with a linear regression model
+  -  Performing an initial exploratory data analysis with Jupyter notebooks.
+  -  Setting up a validation framework
+  -  Implementing the linear regression model from scratch
+  -  Performing simple feature engineering for the model
+  -  Keeping the model under control with regularization
+  -  Using the model to predict car prices
+
+- <a href="https://github.com/ugoswami11/stock-price-prediction-python">Microsoft stock price prediciton</a><br>
+  Predict directionality of stock price of Microsoft whether it will go up or go down.
+  - Downloading historical stock prices from Yahoo finance
+  - Performing exploratory data analysis
+  - Setting up data to predict future prices using historical prices
+  - Training the model using Random Forest
+  - Setting up a bactesting engine 
+  - Improving the accuracy of the model
+- <a href="https://github.com/ugoswami11/epl-match-winner-prediction"> Premier League match winner prediction</a><br>
+  Web scraping and Predicting the winning team for the English Premier League
+  - Using request and BeatifulSoup library to scrap data from fbref.
+  - Performing exploratory data analysis
+  - Using Random Forest to generate prediction
+  - Performing feature engineering to improve the accuracy.
+
+- <a href="https://github.com/ugoswami11/Bengaluru-house-price-prediction"> Bengaluru house price prediction</a><br>
+  Predicting the house prices in Bengaluru, India
+  - Performing Exploratory data analysis
+  - Handling missing values and Data manipulation 
+  - Feature engineering 
+  - Using different models like linear regression, random forest and gradient boosting.
+  - Hyperparameter tuning using GridSearchCV
+  - Evaluating the model based on cross validation score and root mean squared error score.
+  - Choosing the best model.
+- <a href="https://github.com/ugoswami11/sales-dashboard-powerbi">Sales dashboard using PowerBI</a><br>
+  Creating a sales analysis dashboard based on the sales database using PowerBI
+
 
 
 
