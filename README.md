@@ -26,6 +26,14 @@
 
 <h3><b>Featured Repositories</b></h3>
 
+- <a href = "https://github.com/ugoswami11/flask-blog-website"> Blog web app using Flask </a><br>
+
+  - Forms and validation
+  - Database connectivity
+  - Login Authentication
+  - Creating and deleting blog posts
+  
+
 - <a href="https://github.com/ugoswami11/ml-course-bootcamp/tree/main/telco-churn-prediction">Telco customer churn prediction</a><br>
 
   Predicting customers who will churn using logistic regression
