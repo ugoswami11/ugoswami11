@@ -15,16 +15,22 @@
 <br>
 
 - 💼 I'm currently working as a *Test Analyst*
-- 🌱 I'm currently learning *Machine Learning with Python*
-- 🧐 I'm looking for opportunities in *Data Science and Machine Learning related fields*
+- 🌱 I'm currently learning *Spring boot*
+- 🧐 I'm looking for opportunities in *QA, Software development or Web development* fields
 - 💬 Ask me about *Premier League, Man Utd, in general football*
 - 📫 How to reach me *ugoswami1112@gmail.com*
 
 <h3><b>Work Experience 👨‍💻</b></h3>
-<h4 align="left">Working for one of the world's largest custodian bank and asset servicing company as a test anaylst for past 2 years. My role is it to work closely with dev team to perform requirement analysis then prepare and execute test cases for trading, settlement, reporting and analytics module. Also maintaning and developing automation scripts using java and python based on requirement.</h4>
+<h4 align="left">I am working as an Automation Tester with more than 2.5 years of experience in test scope analysis and planning, test data preparation, test scripting, execution, coordination with external teams for E2E testing, and reporting the status to stakeholders and senior hierarchy in the team. I possess a strong understanding of the full testing lifecycle and agile methodologies. Additionally, I have hands-on knowledge of web development technologies like Spring boot, Python Flask, HTML, CSS, JSP and React and also have good analytical skills, and a good understanding of the BFSI domain having worked in Asset and wealth management.
+</h4>
 
 
 <h3><b>Featured Repositories</b></h3>
+
+- <a href = "https://github.com/ugoswami11/spring-boot-movie-api"> Movies Rest API using Spring boot </a><br>
+  - Mongo DB atlas DB connectivity
+  - Rest API
+  - Spring boot 
 
 - <a href = "https://github.com/ugoswami11/flask-blog-website"> Blog web app using Flask </a><br>
 
