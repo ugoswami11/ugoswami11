@@ -7,38 +7,90 @@
   <a href="https://twitter.com/ugoswami11/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <!-- <a href="https://akashkumar-404.github.io/akashkumargupta.github.io">
+  <a href="https://ugoswami11.github.io/portfolio">
     <img src="https://static.wixstatic.com/media/809fa5_c02c7069a7f246ed986e103ade08b3d1~mv2.gif" width="100" height="40" alt="Portfolio"/>
-  </a> -->
+  </a>
   <img src="https://komarev.com/ghpvc/?username=ugoswami11&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
 
-- 💼 I'm currently working as a *Test Analyst*
-- 🌱 I'm currently learning *Spring boot*
-- 🧐 I'm looking for opportunities in *QA, Software development or Web development* fields
+- 💼 I'm currently working as a *Full stack developer*
+- 🌱 I'm currently learning *MERN stack*
+- 🧐 I'm looking for opportunities in *Full stack with MERN or Java based* fields
 - 💬 Ask me about *Premier League, Man Utd, in general football*
 - 📫 How to reach me *ugoswami1112@gmail.com*
 
-<h3><b>Work Experience 👨‍💻</b></h3>
-<h4 align="left">I am working as an Automation Tester with more than 2.5 years of experience in test scope analysis and planning, test data preparation, test scripting, execution, coordination with external teams for E2E testing, and reporting the status to stakeholders and senior hierarchy in the team. I possess a strong understanding of the full testing lifecycle and agile methodologies. Additionally, I have hands-on knowledge of web development technologies like Spring boot, Python Flask, HTML, CSS, JSP and React and also have good analytical skills, and a good understanding of the BFSI domain having worked in Asset and wealth management.
+<h2><b>Work Experience 👨‍💻</b></h2>
+<h4 align="left">
+Experienced Full Stack Developer with a strong foundation in Java, Python, JavaScript, HTML5, and CSS3 programming languages.
+<br><br>
+Proficient in utilizing frameworks such as Maven, Express Spring Boot, Flask, and React to deliver robust and scalable web applications.
+<br><br>
+Adept at working with both SQL Server and MongoDB databases. Adept at problem-solving, collaborating cross-functionally, and continuously acquiring new skills to stay at the forefront of technology.
+<br><br>
+Proven history in the banking and financial services sector as an automation tester and a
+successful full stack developer.
+<br><br>
+Demonstrated adaptability to diverse technologies and a constant thirst for learning.
 </h4>
 
 
-<h3><b>Featured Repositories</b></h3>
+<h2><b>Featured Repositories</b></h2>
+
+<h3>Full stack projects </h3>
+
+- <a href="https://github.com/ugoswami11/booking-app-mern">Hotel Booking App (Airbnb clone)</a>
+  - Express JS as backend
+  - React JS as frontend 
+  - MongoDB atlas to store the data
+  - Login and Register functionality
+  - Create property listing with images
+  - Responsive design
+  - Book hotels and view your bookings
+  - View all the listed accomodations
+
+<br>
+
+- <a href="https://github.com/ugoswami11/mern-blog-app">Blog app with MERN stack</a>
+  - Express JS as backend
+  - React JS as frontend
+  - MongoDB atlas connectivity
+  - Login and Register functionlity
+  - Create, Edit and Delete post
+  - View other blog post
+
+<br>
+
+- <a href = "https://github.com/ugoswami11/flask-blog-website"> Blog web app using Flask </a><br>
+  - Flask as backend
+  - Forms and validation
+  - SQL Database connectivity
+  - Login Authentication
+  - Creating and deleting blog posts
+
+<br>
+
+<h2> Frontend Projects </h2>
+
+- <a href="https://github.com/ugoswami11/web-dev-static-websites/tree/main/Dice-Game">Dice Game</a>
+  - HTML, CSS, Javascript
+- <a href="https://github.com/ugoswami11/web-dev-static-websites/tree/main/Drum-Kit">Drum Kit</a>
+  - HTML, CSS, Javascript 
+- <a href="https://github.com/ugoswami11/web-dev-static-websites/tree/main/MoveIt">Move It</a>
+  - HTML, CSS, Bootstrap5, Jquery
+- <a href="https://github.com/ugoswami11/web-dev-static-websites/tree/main/Simons-Game">Simons Game</a>
+  - HTML, CSS, Javascript
+- <a href="https://github.com/ugoswami11/web-dev-static-websites/tree/main/TinDog">Tinder for Dogs</a>
+  - HTML, CSS, Bootstrap5
+
+<h3>Backend Projects</h3>
 
 - <a href = "https://github.com/ugoswami11/spring-boot-movie-api"> Movies Rest API using Spring boot </a><br>
   - Mongo DB atlas DB connectivity
   - Rest API
   - Spring boot 
 
-- <a href = "https://github.com/ugoswami11/flask-blog-website"> Blog web app using Flask </a><br>
-
-  - Forms and validation
-  - Database connectivity
-  - Login Authentication
-  - Creating and deleting blog posts
-  
+<h3>Machine Learning Projects</h3>
 
 - <a href="https://github.com/ugoswami11/ml-course-bootcamp/tree/main/telco-churn-prediction">Telco customer churn prediction</a><br>
 
@@ -49,6 +101,8 @@
   - Saving models with Pickle and serving models using Flask
   - Managing dependencies with Pipenv and making the service self-contained using Docker
 
+<br>
+
 - <a href="https://github.com/ugoswami11/ml-course-bootcamp/blob/main/notebooks/credit-risk-scoring.ipynb"> Credit risk scoring prediciton</a><br>
 
   Predicting the risk of defaults using different tree-based models
@@ -56,6 +110,8 @@
   - Using Random forest to predict and tuning the parametes to improve performance
   - Using Gradient boosting to predict and tuning the parametes to improve performance
   - Selecting the best model by evaluating the auc scores on validation dataset. 
+
+<br>
 
 - <a href="https://github.com/ugoswami11/ml-course-bootcamp/blob/main/notebooks/car-price.ipynb"> Car price prediction</a><br>
 
@@ -67,6 +123,8 @@
   -  Keeping the model under control with regularization
   -  Using the model to predict car prices
 
+<br>
+
 - <a href="https://github.com/ugoswami11/stock-price-prediction-python">Microsoft stock price prediciton</a><br>
   Predict directionality of stock price of Microsoft whether it will go up or go down.
   - Downloading historical stock prices from Yahoo finance
@@ -75,12 +133,17 @@
   - Training the model using Random Forest
   - Setting up a bactesting engine 
   - Improving the accuracy of the model
+
+<br>
+
 - <a href="https://github.com/ugoswami11/epl-match-winner-prediction"> Premier League match winner prediction</a><br>
   Web scraping and Predicting the winning team for the English Premier League
   - Using request and BeatifulSoup library to scrap data from fbref.
   - Performing exploratory data analysis
   - Using Random Forest to generate prediction
   - Performing feature engineering to improve the accuracy.
+
+<br>
 
 - <a href="https://github.com/ugoswami11/Bengaluru-house-price-prediction"> Bengaluru house price prediction</a><br>
   Predicting the house prices in Bengaluru, India
@@ -91,6 +154,9 @@
   - Hyperparameter tuning using GridSearchCV
   - Evaluating the model based on cross validation score and root mean squared error score.
   - Choosing the best model.
+
+<br>
+
 - <a href="https://github.com/ugoswami11/sales-dashboard-powerbi">Sales dashboard using PowerBI</a><br>
   Creating a sales analysis dashboard based on the sales database using PowerBI
 
@@ -104,7 +170,7 @@
 <a href="https://www.instagram.com/ugoswami11/"><img align="center" src="https://www.svgrepo.com/show/13639/instagram.svg" alt="ugoswami11" height="30" width="40"/></a>
 </p> -->
 
-<h3><b>Skill Set</b></h3>
+<h2><b>Skill Set</b></h2>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/">
 <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="docker" width="40" height="40"/></a>
