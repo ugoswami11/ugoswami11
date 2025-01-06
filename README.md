@@ -24,9 +24,9 @@
 <h4 align="left">
 Experienced Full Stack Developer with a strong foundation in Java, Python, JavaScript, HTML5, and CSS3 programming languages.
 <br><br>
-Proficient in utilizing frameworks such as Maven, Express Spring Boot, Flask, and React to deliver robust and scalable web applications.
+Proficient in utilizing frameworks such as Maven, Spring Boot, React, Flask, and Express to deliver robust and scalable web applications.
 <br><br>
-Adept at working with both SQL Server and MongoDB databases. Adept at problem-solving, collaborating cross-functionally, and continuously acquiring new skills to stay at the forefront of technology.
+Adept at working with both SQL and MongoDB databases. Adept at problem-solving, collaborating cross-functionally, and continuously acquiring new skills to stay at the forefront of technology.
 <br><br>
 Proven history in the banking and financial services sector as an automation tester and a
 successful full stack developer.
@@ -38,6 +38,28 @@ Demonstrated adaptability to diverse technologies and a constant thirst for lear
 <h2><b>Featured Repositories</b></h2>
 
 <h3>Full stack projects </h3>
+
+- <a href="https://github.com/ugoswami11/task-manager-java-react-microservice-architecture">Task manager (Java + Reactjs) microservice architecture</a>
+  - Java as backend
+  - React JS as frontend 
+  - Built in a microservice architecture with seperate services like
+    - User service - handles authentication and store user info to User table
+    - Task service - handles CRUD operations related to task
+    - Submission service - handles CRUD operation related to submissions 
+  - Login and Register functionality
+  - Admin panel
+    - Create task
+    - Edit task
+    - Delete task
+    - Assign task to user
+    - View all submissions by user
+    - Accept or Decline submissions
+  - User panel
+    - View all task assigned by Admin
+    - Create submissions for a particular task
+
+<br>
+
 
 - <a href="https://github.com/ugoswami11/booking-app-mern">Hotel Booking App (Airbnb clone)</a>
   - Express JS as backend
